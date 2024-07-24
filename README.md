@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Anushka
-- 👀 I’m interested in startups, programming and tech!
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything cool which matches my vibes!
-- 📫 Easiest way to reach me out is on Twitter @anushka_twt
+I love React and to overreact.
+
+Frontend Dev • UI Designer • Wanna be Full Stack Dev
 
 ### Badges
 
